@@ -6,3 +6,4 @@ Describe in your own words how to establish a connection between a local reposit
 3. Create a github repo
 4. Set up the remote github repo by using terminal command `git remote add origin <SSH address>`
 5. Check for remote directories by using informative command `git remote`
+6. Push commits up to the remote respository by using terminal command `git push -u origin main`
